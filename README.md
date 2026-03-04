@@ -1,1 +1,1 @@
-https://github.com/Joaquin1130/HW6Resume
+https://joaquin1130.github.io/HW6Resume/
